@@ -5,4 +5,4 @@
 **Android 12 Ports For Redmi Note 8/8T**
 ![20211130_122916](https://user-images.githubusercontent.com/37813398/144046138-8b2e2d0e-edb6-435a-b863-d4f39d23d8e3.jpg)
 **Latest Android 12.L Relased**
-- >
+- >[PixelUI_Ginkgo-12.L-20211222-1907.zip](https://ishanchirps.github.io/PixelUI-12.0/)
