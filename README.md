@@ -8,3 +8,4 @@
 - >[PixelUI_Ginkgo-12.L-20220127-1075.zip](https://drive.google.com/uc?id=18SfYWaPSc_j3d3aA1Nte8PO5cVEd5bE7&export=download)
 - >[PixelUI_Ginkgo-12.L-20220113-1787.zip](https://drive.google.com/file/d/10M_jchJFuMX1UXJJnaGB-sU0WOJ_tlMs/view?usp=drivesdk)
 - >[PixelUI_Ginkgo-12.L-20211222-1907.zip](https://drive.google.com/file/d/1KVI4n2nor0M_IKjmzePl3nU3YjZ8L9cY/view?usp=drivesdk)
+- >[PixelUI_Ginkgo-12.0-20220209-1908.zip](https://drive.google.com/uc?id=1GkYBtW_8VnyhRSZqeAGI2oDAZ-oPLHbp&export=download)
