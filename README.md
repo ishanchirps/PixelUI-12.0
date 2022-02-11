@@ -11,5 +11,5 @@
 - >[PixelUI_Ginkgo-12.L-20220113-1787.zip](https://drive.google.com/file/d/10M_jchJFuMX1UXJJnaGB-sU0WOJ_tlMs/view?usp=drivesdk)
 - >[PixelUI_Ginkgo-12.L-20211222-1907.zip](https://drive.google.com/file/d/1KVI4n2nor0M_IKjmzePl3nU3YjZ8L9cY/view?usp=drivesdk)
 
-**Latest Android 12 Relased**
+**Latest Android 13 Relased**
 
