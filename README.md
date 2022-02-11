@@ -12,4 +12,4 @@
 - >[PixelUI_Ginkgo-12.L-20211222-1907.zip](https://drive.google.com/file/d/1KVI4n2nor0M_IKjmzePl3nU3YjZ8L9cY/view?usp=drivesdk)
 
 **Latest Android 13 Relased**
-
+- >[PixelUI_Ginkgo-13.0-20220211-0182.zip](https://drive.google.com/uc?id=1ACHdqvf2NK0Rql2Ul1LMmlL5wrAwWztl&export=download)
