@@ -7,7 +7,7 @@
 **Latest Android 12 Relased**
 - >[PixelUI_Ginkgo-12.0-20220219-0931.zip](https://drive.google.com/uc?id=1e0nF2SoO-0LVXQWbyAvYbIPODeUrAnFn&export=download)
 - >[PixelUI_Ginkgo-12.0-20220209-1908.zip](https://drive.google.com/uc?id=1GkYBtW_8VnyhRSZqeAGI2oDAZ-oPLHbp&export=download)
-
+- >[PixelUI_Ginkgo-12.0-20220310-8410.zip](https://drive.google.com/uc?id=1ijwW-UmK0wI8dlF7tqPM-jFb1JuQj44I&export=download)
 
 **Latest Android 12.L Relased**
 - >[PixelUI_Ginkgo-12.L-20220309-0335.zip](https://drive.google.com/file/d/19Wiuagqanib2Q_-trKbq9OsiSWm0hQTE/view)
