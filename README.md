@@ -3,7 +3,7 @@
 - > (Pixel 3, Pixel 3 XL, Pixel 3a, Pixel 3a XL, Pixel 4, Pixel 4 XL, Pixel 4a, Pixel 4a 5G, Pixel 5, Pixel 5a 5G, Pixel 6, Pixel 6 Pro).
 
 **PixelUI Ports For Redmi Note 8/8T**
-![a12gcloud](https://user-images.githubusercontent.com/37813398/157501019-6ebfcd29-143c-4e33-8be8-2d2ad36a8cd5.PNG)
+![a12gclouds](https://user-images.githubusercontent.com/37813398/158079534-08ce247e-2aaf-4266-aa34-f03807a52fee.png)
 **Latest Android 12 Relased**
 - >[PixelUI_Ginkgo-12.0-20220310-8410.zip](https://drive.google.com/uc?id=1ijwW-UmK0wI8dlF7tqPM-jFb1JuQj44I&export=download)
 - >[PixelUI_Ginkgo-12.0-20220219-0931.zip](https://drive.google.com/uc?id=1e0nF2SoO-0LVXQWbyAvYbIPODeUrAnFn&export=download)
