@@ -4,12 +4,15 @@
 
 **PixelUI Ports For Redmi Note 8/8T**
 ![a12gclouds](https://user-images.githubusercontent.com/37813398/158079534-08ce247e-2aaf-4266-aa34-f03807a52fee.png)
-**Latest Android 12 Relased**
+**Android 12 QPR3 BETA 1**
+- >[PixelUI_Ginkgo-12.0-20220314-8418.zip](https://drive.google.com/uc?id=1A5VrqLRBKvqMaB6hTbju32RzYxYJvm-0&export=download)
 - >[PixelUI_Ginkgo-12.0-20220310-8410.zip](https://drive.google.com/uc?id=1ijwW-UmK0wI8dlF7tqPM-jFb1JuQj44I&export=download)
+
+**Android 12**
 - >[PixelUI_Ginkgo-12.0-20220219-0931.zip](https://drive.google.com/uc?id=1e0nF2SoO-0LVXQWbyAvYbIPODeUrAnFn&export=download)
 - >[PixelUI_Ginkgo-12.0-20220209-1908.zip](https://drive.google.com/uc?id=1GkYBtW_8VnyhRSZqeAGI2oDAZ-oPLHbp&export=download)
 
-**Latest Android 12.L Relased**
+**Android 12.L**
 - >[PixelUI_Ginkgo-12.L-20220309-0335.zip](https://drive.google.com/file/d/19Wiuagqanib2Q_-trKbq9OsiSWm0hQTE/view)
 - >[PixelUI_Ginkgo-12.L-20220225-0165.zip](https://drive.google.com/file/d/1yfO9cQRoK1XLZ9ZrEn7QKU3WvrDYJzon/view?usp=drivesdk)
 - >[PixelUI_Ginkgo-12.L-20220210-1970.zip](https://drive.google.com/uc?id=1IJZDy8PBtW-uKwzjKWiSW0LCOXygny1y&export=download)
@@ -18,6 +21,6 @@
 - >[PixelUI_Ginkgo-12.L-20211222-1907.zip](https://drive.google.com/file/d/1KVI4n2nor0M_IKjmzePl3nU3YjZ8L9cY/view?usp=drivesdk)
 
 
-**Latest Android 13 Relased**
+**Android 13**
 - >[PixelUI_Ginkgo-13.0-20220218-0100.zip](https://drive.google.com/uc?id=1aMMMHTQFZvPXavQFtsR9QnXG0XoNaOhd&export=download)
 - >[PixelUI_Ginkgo-13.0-20220211-0182.zip](https://drive.google.com/uc?id=1ACHdqvf2NK0Rql2Ul1LMmlL5wrAwWztl&export=download)
