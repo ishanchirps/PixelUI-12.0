@@ -5,6 +5,7 @@
 **PixelUI Ports For Redmi Note 8/8T**
 ![finalred](https://user-images.githubusercontent.com/37813398/162590329-23e35252-410f-42ed-baa1-7b3fa2a3cea4.jpg)
 **Android 12 QPR3**
+- >[PixelUI_Ginkgo-12.0-20220410-8422.zip](https://drive.google.com/uc?id=1ZwfYfz5SfxSeS-0m7404Lhz90vT2G0EI&export=download)
 - >[PixelUI_Ginkgo-12.0-20220409-8421.zip](https://drive.google.com/uc?id=12AS76M0ka46ZOEdkkxcX-v4mDH4LyFf6&export=download)
 - >[PixelUI_Ginkgo-12.0-20220314-8418.zip](https://drive.google.com/uc?id=1A5VrqLRBKvqMaB6hTbju32RzYxYJvm-0&export=download)
 - >[PixelUI_Ginkgo-12.0-20220310-8410.zip](https://drive.google.com/uc?id=1ijwW-UmK0wI8dlF7tqPM-jFb1JuQj44I&export=download)
