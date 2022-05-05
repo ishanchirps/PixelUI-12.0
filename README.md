@@ -15,6 +15,7 @@
 - >[PixelUI_Ginkgo-12.0-20220209-1908.zip](https://drive.google.com/uc?id=1GkYBtW_8VnyhRSZqeAGI2oDAZ-oPLHbp&export=download)
 
 **Android 12.L**
+- >[PixelUI_Ginkgo-12.L-20220505-0405.zip](https://drive.google.com/uc?id=1xSBh_mqGQcsHFCyH_YrRyvers9BN3xAy&export=download)
 - >[PixelUI_Ginkgo-12.L-20220411-0340.zip](https://drive.google.com/uc?id=1kQO_jgTnRvCsc5fJ2aQCf9l-A-ebH0sj&export=download)
 - >[PixelUI_Ginkgo-12.L-20220407-0339.zip](https://drive.google.com/uc?id=1HrYkVbOK4jk6zst-jgJcqhKbILsvOVSC&export=download)
 - >[PixelUI_Ginkgo-12.L-20220406-0338.zip](https://drive.google.com/uc?id=1WWOFjP-t0AkEfvgK6REGisSijMJtoIrn&export=download)
