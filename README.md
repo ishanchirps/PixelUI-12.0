@@ -29,6 +29,7 @@
 - >[PixelUI_Ginkgo-12.L-20211222-1907.zip](https://drive.google.com/file/d/1KVI4n2nor0M_IKjmzePl3nU3YjZ8L9cY/view?usp=drivesdk)
 
 **Android 13**
+- >[PixelUI_Ginkgo-13.0-20220516-1202.zip](https://drive.google.com/uc?id=1oF_JNURe1cHixLdr_hlGnj8ymmQXdj7K&export=download)
 - >[PixelUI_Ginkgo-13.0-20220515-1448.zip](https://drive.google.com/uc?id=1HBMCXaKVItxZVMpR_ujysb9Rqp9SjqIu&export=download)
 - >[PixelUI_Ginkgo-13.0-20220514-1426.zip](https://drive.google.com/uc?id=1V9QTnpCDRMThmp6PenNJdIBoQLtYs3VP&export=download)
 - >[PixelUI_Ginkgo-13.0-20220513-1350.zip](https://drive.google.com/uc?id=1YZFp_jLt8GsKOF3PhkZhCFEUFLj6_9rA&export=download)
