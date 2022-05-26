@@ -44,5 +44,6 @@
 - >[PixelUI_Ginkgo-13.0-20220211-0182.zip](https://drive.google.com/uc?id=1ACHdqvf2NK0Rql2Ul1LMmlL5wrAwWztl&export=download)
 
 **Privacy Sandbox** ([What is This?](https://developer.android.com/design-for-safety/privacy-sandbox/program-overview))
+- >[PixelUI_Ginkgo-13.0-20220526-1524.zip](https://drive.google.com/uc?id=1_59mM4xpD07RCb0pZdm6LLju7dt0RDjc&export=download)
 - >[PixelUI_Ginkgo-13.0-20220501-1709.zip](https://drive.google.com/uc?id=1XBkSWDrPL0vzkjdsIyPY5n__GKFR6kUh&export=download)
 - >[PixelUI_Ginkgo-13.0-20220430-0159.zip](https://drive.google.com/uc?id=1pnRp_3Gy7E7LHOwj17wGOX7f5_vqOOz8&export=download)
