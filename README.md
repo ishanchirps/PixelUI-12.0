@@ -3,7 +3,7 @@
 - > (Pixel 3, Pixel 3 XL, Pixel 3a, Pixel 3a XL, Pixel 4, Pixel 4 XL, Pixel 4a, Pixel 4a 5G, Pixel 5, Pixel 5a 5G, Pixel 6, Pixel 6 Pro).
 
 **PixelUI Ports For Redmi Note 8/8T**
-![Blue](https://user-images.githubusercontent.com/37813398/168391928-7f773efd-94a7-4b24-a039-733fd5f7521a.jpg)
+![greynew1](https://user-images.githubusercontent.com/37813398/172945814-95f91607-ce2c-4c74-9b9e-3115afaf3552.jpg)
 **Android 12 QPR3**
 - >[PixelUI_Ginkgo-12.0-20220410-8422.zip](https://drive.google.com/uc?id=1ZwfYfz5SfxSeS-0m7404Lhz90vT2G0EI&export=download)
 - >[PixelUI_Ginkgo-12.0-20220409-8421.zip](https://drive.google.com/uc?id=12AS76M0ka46ZOEdkkxcX-v4mDH4LyFf6&export=download)
@@ -29,6 +29,7 @@
 - >[PixelUI_Ginkgo-12.L-20211222-1907.zip](https://drive.google.com/file/d/1KVI4n2nor0M_IKjmzePl3nU3YjZ8L9cY/view?usp=drivesdk)
 
 **Android 13**
+- >[PixelUI_Ginkgo-13.0-20220610-1356.zip](https://drive.google.com/uc?id=1SkdGaZQNZpHy5wJTYYjHGvE2x9yqNwpP&export=download)
 - >[PixelUI_Ginkgo-13.0-20220530-1332.zip](https://drive.google.com/u/0/uc?id=1oyYyHnuSOXohtwmWUOc2fuoWUcsHoUYr&export=download)
 - >[PixelUI_Ginkgo-13.0-20220527-1439.zip](https://drive.google.com/uc?id=1NPTYOryHMViVJT-hV_Vu4lLxQfQ9LspY&export=download)
 - >[PixelUI_Ginkgo-13.0-20220516-1202.zip](https://drive.google.com/uc?id=1oF_JNURe1cHixLdr_hlGnj8ymmQXdj7K&export=download)
